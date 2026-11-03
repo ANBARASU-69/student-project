@@ -1,0 +1,42 @@
+[1mdiff --git a/class.py b/class.py[m
+[1mindex 9de1cb5..75f1f00 100644[m
+[1m--- a/class.py[m
+[1m+++ b/class.py[m
+[36m@@ -1,10 +1,27 @@[m
+[31m-Student Grade Calculator[m
+[31m-Enter the number of subject: 3[m
+[31m-you have 3 subjects.[m
+[31m-enter score for subject 1: 90[m
+[31m-enter score for subject 2: 78[m
+[31m-enter score for subject 3: 88[m
+[31m-----------Student Report------[m
+[31m-Total Score:256[m
+[31m-avg score 85.33[m
+[31m-Grade: B[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html>[m
+[32m+[m[32m<head>[m
+[32m+[m[32m<title>My Profile</title>[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m<h1>Welcome to My Profile</h1>[m
+[32m+[m
+[32m+[m[32m<h2>About Me</h2>[m
+[32m+[m[32m<p>My name is Anbarasu P.</p>[m
+[32m+[m[32m<p>I am learning Linux, Git, GitHub and AWS.</p>[m
+[32m+[m
+[32m+[m[32m<h2>My Skills</h2>[m
+[32m+[m[32m<ul>[m
+[32m+[m[32m<li>Linux</li>[m
+[32m+[m[32m<li>AWS</li>[m
+[32m+[m[32m<li>Git</li>[m
+[32m+[m[32m<li>Python</li>[m
+[32m+[m[32m</ul>[m
+[32m+[m
+[32m+[m[32m<h2>My Career Goal</h2>[m
+[32m+[m[32m<p>I want to become a Cloud Engineer.</p>[m
+[32m+[m
+[32m+[m[32m<h2>Contact</h2>[m
+[32m+[m[32m<p>Email: your-email@example.com</p>[m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
